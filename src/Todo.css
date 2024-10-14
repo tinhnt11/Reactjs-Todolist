@@ -1,0 +1,19 @@
+.todo {
+    text-align: left;
+    margin-left: 30px;
+  }
+
+  .aligned{
+    display: flex;
+    align-items: center;
+  }
+
+  .done{
+    text-decoration: line-through;
+    font-size: 12px;
+    margin-left: 20px;
+  }
+
+  .noCheckDone{
+    margin-left: 25px;
+  }
